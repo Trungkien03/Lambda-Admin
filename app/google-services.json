@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "858190888007",
+    "project_id": "yogaclass-c2fb5",
+    "storage_bucket": "yogaclass-c2fb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858190888007:android:257af42c317fe046608562",
+        "android_client_info": {
+          "package_name": "com.android.loki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtXfGOlbnsoLojU-gXJEt4dN7sAlyveA"
+        },
+        {
+          "current_key": "AIzaSyCVJtLtmFyERWXqcSitwFER7sjvYD-VfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858190888007-4o1v5hjv7419m2mrlcdm8vqh25ogktf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lambda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858190888007:android:72b84fb80d6733e0608562",
+        "android_client_info": {
+          "package_name": "com.loki.dev.lambda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858190888007-g5gs3p91u0j9dp0m5kbhnd63e5qnm3ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loki.dev.lambda",
+            "certificate_hash": "9b98f26032064cb99984ec6d7f5cddfe21714d8c"
+          }
+        },
+        {
+          "client_id": "858190888007-ikm5oi2jbs5ttqnh7j4836n5977d670d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loki.dev.lambda",
+            "certificate_hash": "40d2a54961298a41dc6d39a86701f4254a2ba8a3"
+          }
+        },
+        {
+          "client_id": "858190888007-r9riht06etiurpvbkbbt0dlvseq3fjna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loki.dev.lambda",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtXfGOlbnsoLojU-gXJEt4dN7sAlyveA"
+        },
+        {
+          "current_key": "AIzaSyCVJtLtmFyERWXqcSitwFER7sjvYD-VfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858190888007-4o1v5hjv7419m2mrlcdm8vqh25ogktf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lambda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858190888007:android:22704243eb39930e608562",
+        "android_client_info": {
+          "package_name": "loki.edu.yogaclassadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858190888007-9m6q4hjbohr8kvpb322kukhns0972o94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loki.edu.yogaclassadmin",
+            "certificate_hash": "f170e35c817b7eff63a95421a5431253d125a3aa"
+          }
+        },
+        {
+          "client_id": "858190888007-g11mer46389vmtcd7mr186g130ptu69m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loki.edu.yogaclassadmin",
+            "certificate_hash": "9b98f26032064cb99984ec6d7f5cddfe21714d8c"
+          }
+        },
+        {
+          "client_id": "858190888007-o9a541fs6g5ubrqqcopia1186c2erg0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "loki.edu.yogaclassadmin",
+            "certificate_hash": "8ea73df8f0b9decf2169bd48a3b284d15da437ee"
+          }
+        },
+        {
+          "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtXfGOlbnsoLojU-gXJEt4dN7sAlyveA"
+        },
+        {
+          "current_key": "AIzaSyCVJtLtmFyERWXqcSitwFER7sjvYD-VfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858190888007-jg7spdk3dd6guubt1b5du5j8abjuiuuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858190888007-4o1v5hjv7419m2mrlcdm8vqh25ogktf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.lambda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
